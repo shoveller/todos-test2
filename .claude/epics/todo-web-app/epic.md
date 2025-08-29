@@ -4,7 +4,7 @@ status: backlog
 created: 2025-08-29T04:08:33Z
 progress: 0%
 prd: .claude/prds/todo-web-app.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/shoveller/todos-test2/issues/6
 ---
 
 # Epic: todo-web-app
@@ -184,16 +184,15 @@ hooks/useTodos.ts - 로컬 스토리지 동기화, CRUD 로직
 4. 타입 안정성 - 코드 품질
 
 ## Tasks Created
-- [ ] 001.md - Data Model & Types (parallel: true)
-- [ ] 002.md - Local Storage Hook (parallel: false)
-- [ ] 003.md - Main Route Setup (parallel: true)
-- [ ] 004.md - Todo Form Component (parallel: false)
-- [ ] 005.md - Todo List Display (parallel: false)
-- [ ] 006.md - Todo Item CRUD (parallel: false)
-- [ ] 007.md - Responsive Styling (parallel: false)
-- [ ] 008.md - Testing & Polish (parallel: false)
+- [ ] #10 - Todo Form Component (parallel: false)
+- [ ] #11 - Todo Item CRUD (parallel: false)
+- [ ] #12 - Responsive Styling (parallel: false)
+- [ ] #13 - Testing & Polish (parallel: false)
+- [ ] #5 - Todo List Display (parallel: false)
+- [ ] #7 - Data Model & Types (parallel: true)
+- [ ] #8 - Local Storage Hook (parallel: false)
+- [ ] #9 - Main Route Setup (parallel: true)
 
-Total tasks: 8
-Parallel tasks: 2
+Total tasks:        8
+Parallel tasks:        2  
 Sequential tasks: 6
-Estimated total effort: 8시간

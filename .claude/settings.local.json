@@ -34,7 +34,11 @@
       "WebFetch(domain:github.com)",
       "WebSearch",
       "Bash(test:*)",
-      "Bash(gh:*)"
+      "Bash(gh:*)",
+      "Bash(bash .claude/scripts/pm/epic-sync:*)",
+      "Bash(epic_number=6)",
+      "Bash(task_count=8)",
+      "Bash(echo:*)"
     ]
   }
 }
